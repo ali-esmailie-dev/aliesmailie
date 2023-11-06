@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @aliesmailie
+- 👀 I’m interested in flutter
+- 💞️ I’m looking to collaborate on open source projects
